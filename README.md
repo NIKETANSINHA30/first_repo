@@ -1,3 +1,4 @@
 # first_repo
 This is my first Git Repository
-Author-Niketan Sinha
+<br>
+<b>Author</b>-Niketan Sinha
